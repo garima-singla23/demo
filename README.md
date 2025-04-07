@@ -1,3 +1,4 @@
 # demo
-This is demo repository just for learning basics
+This is demo repository just for learning basics.
+<br>
 Author - Garima Singla
